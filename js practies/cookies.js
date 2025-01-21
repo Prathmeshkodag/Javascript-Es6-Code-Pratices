@@ -1,0 +1,1 @@
+document.cookie='name=prathmesh,surname=kodag,age=23'
